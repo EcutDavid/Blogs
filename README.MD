@@ -3,3 +3,4 @@
 ## BLOG IDEAL LIST    
 - [ ] Writing sass like oop.    
 - [ ] Summary how I became a programmer.
+- [ ] BlogSite building notes.
